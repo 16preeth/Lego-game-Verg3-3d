@@ -5,13 +5,13 @@ Objective:
 As a user of the game, I should be able to build various structures using these Lego Block game virtually by creating and cloning the blocks upon clicking the buttons.
 Scenario: Playing Lego Blocks Web Interactive Game 
 1.Launching the Interactive LEGO Game:
-•	Initiating the game world
-•	Starting a new game by refreshing the webpage
+•	Initiating the game world.
+•	Starting a new game by refreshing the webpage.
 •	When started, all the Lego blocks are hidden and colour buttons are only visible.
 2.Exploring the game environment:
 •	The user can control the movement of blocks by clicking and dragging the respective blocks.
 •	The user can easily engage with the game by building various structures.
-3.Building with Lego Blocks
+3.Building with Lego Blocks:
 •	The user can select their appropriate colour Lego blocks by clicking on the buttons present at the left corner of the screen.
 •	To get another object of same type, the user can again click on the appropriate colour buttons and use them to play the game.
 •	The user can only use the Lego blocks of same colour and direction to build the game.
