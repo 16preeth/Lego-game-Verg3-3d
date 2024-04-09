@@ -16,6 +16,7 @@ Scenario: Playing Lego Blocks Web Interactive Game
 •	To get another object of same type, the user can double-click on the appropriate colour buttons  and use them to play the game.
 •	The user can only use the Lego blocks of same colour and direction to build the game.
 •	The user can only move the blocks into the tiles and build them on each other.
+
 Acceptance Criteria:
 1.	When the game is launched, all the Lego blocks would be hidden.
 2.	Only the colour buttons for selecting the Lego blocks will be visible.
